@@ -1,4 +1,17 @@
 {
-    "qa_pairs": [],
-    "categories": []
-  }
+  "qa_pairs": [
+    {
+      "id": 1,
+      "question": "visa extension",
+      "answer": "Visit International Office in Building A, Room 102",
+      "category": "immigration"
+    },
+    {
+      "id": 2,
+      "question": "pay tuition",
+      "answer": "Payments accepted at Finance Office in Building B",
+      "category": "finance"
+    }
+  ],
+  "categories": ["immigration", "finance"]
+}
