@@ -132,7 +132,7 @@ function giveFeedback(isHelpful) {
         }
     }
     
-    if (isHelpful) helpfulResponses++;
+    
     
     // Update button states
     document.querySelectorAll('.feedback-btn').forEach(btn => btn.classList.remove('active'));
