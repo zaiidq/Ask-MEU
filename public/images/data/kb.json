@@ -1,17 +1,124 @@
-{
-  "qa_pairs": [
+[
+  {
+    "id": 1,
+    "question": "How do I extend my student visa?",
+    "answer": "To extend your student visa, visit the International Student Services office in the Student Affairs building. Bring your passport, current visa, enrollment certificate, and bank statement. Submit your application at least 30 days before expiration.",
+    "category": "visa",
+    "helpful": 0,
+    "notHelpful": 0
+  },
+  {
+    "id": 2,
+    "question": "Where can I pay my tuition fees?",
+    "answer": "Tuition fees can be paid at the Finance Office (Building A, Ground Floor), online through the student portal, or at any authorized bank branch. Payment methods include cash, bank transfer, or credit card.",
+    "category": "fees",
+    "helpful": 0,
+    "notHelpful": 0
+  },
+  {
+    "id": 3,
+    "question": "Which cafes are open after 7 PM?",
+    "answer": "The Central Café (Building B) and the Library Café are open until 10 PM on weekdays. The Student Union Coffee Shop operates 24/7 during exam periods.",
+    "category": "dining",
+    "helpful": 0,
+    "notHelpful": 0
+  },
+  {
+    "id": 4,
+    "question": "How do I access the university WiFi?",
+    "answer": "Connect to 'MEU-Student' network using your student ID as username and your birthday (DDMMYYYY) as password. For assistance, contact IT Support at ext. 2200.",
+    "category": "facilities",
+    "helpful": 0,
+    "notHelpful": 0
+  },
+  {
+    "id": 5,
+    "question": "What are the library opening hours?",
+    "answer": "The main library is open Monday-Thursday 8 AM-10 PM, Friday 8 AM-6 PM, Saturday 9 AM-5 PM, and Sunday 2 PM-8 PM. Extended hours during exam periods.",
+    "category": "facilities",
+    "helpful": 0,
+    "notHelpful": 0
+  },
+            
     {
-      "id": 1,
-      "question": "visa extension",
-      "answer": "Visit International Office in Building A, Room 102",
-      "category": "immigration"
+        "id": 6,
+        "question": "How do I apply for on-campus housing?",
+        "answer": "Submit your housing application through the student portal before the deadline. Required documents include enrollment certificate, medical certificate, and housing deposit payment receipt.",
+        "category": "housing",
+        "helpful": 0,
+        "notHelpful": 0
     },
     {
-      "id": 2,
-      "question": "pay tuition",
-      "answer": "Payments accepted at Finance Office in Building B",
-      "category": "finance"
+        "id": 7,
+        "question": "Where is the health center located?",
+        "answer": "The University Health Center is located in Building D, first floor. Open Monday-Friday 8 AM-4 PM. For emergencies after hours, call security at ext. 911.",
+        "category": "health",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 8,
+        "question": "How do I register for courses?",
+        "answer": "Course registration is done through the student portal during the designated registration period. Meet with your academic advisor first to discuss your course plan.",
+        "category": "academic",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 9,
+        "question": "What bus routes serve the university?",
+        "answer": "Bus routes 15, 23, and 45 stop at the main university gate. Route 15 connects to downtown, Route 23 to the airport, and Route 45 to major shopping centers.",
+        "category": "transport",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 10,
+        "question": "How do I join student clubs?",
+        "answer": "Visit the Student Activities Office during club fair week or browse available clubs on the student portal. Most clubs hold recruitment events at the beginning of each semester.",
+        "category": "activities",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 11,
+        "question": "Where can I print documents on campus?",
+        "answer": "Printing services are available at the library, computer labs in each building, and the Student Services center. Cost is 0.10 JD per page for black & white, 0.25 JD for color.",
+        "category": "facilities",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 12,
+        "question": "How do I change my major?",
+        "answer": "To change your major, submit a change of major form to the Registrar's Office along with your transcript and a letter of recommendation from your current advisor.",
+        "category": "academic",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 13,
+        "question": "What ID documents do I need for exams?",
+        "answer": "You must bring your student ID card and a valid government-issued photo ID (passport or national ID) to all examinations. No exceptions are made.",
+        "category": "academic",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 14,
+        "question": "How do I get a parking permit?",
+        "answer": "Apply for parking permits at the Security Office with your student ID, vehicle registration, and driving license. Student parking permits cost 50 JD per semester.",
+        "category": "transport",
+        "helpful": 0,
+        "notHelpful": 0
+    },
+    {
+        "id": 15,
+        "question": "Where can I exchange currency on campus?",
+        "answer": "The Jordan Bank branch in the Student Center offers currency exchange services Monday-Thursday 9 AM-3 PM. ATMs accepting international cards are located in each building.",
+        "category": "general",
+        "helpful": 0,
+        "notHelpful": 0
     }
-  ],
-  "categories": ["immigration", "finance"]
-}
+]
+
