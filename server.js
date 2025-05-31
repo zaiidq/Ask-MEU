@@ -352,10 +352,4 @@ process.on('SIGTERM', () => {
   process.exit(0);
 });
 
-app.listen(PORT, () => {
-  console.log(`✅ Ask-MEU Server running at http://localhost:${PORT}`);
-  console.log(`📊 Admin panel: http://localhost:${PORT}/admin`);
-  console.log(`🔍 API docs: http://localhost:${PORT}/api/health`);
-});
-
 module.exports = app;
